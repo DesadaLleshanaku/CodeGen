@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /api/
+Disallow: /functions/
+Disallow: /includes/
+Disallow: /pages/
+Disallow: /pages/desktop
+Disallow: /pages/mobile
+Disallow: /reports/
