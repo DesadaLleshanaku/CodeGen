@@ -1,0 +1,22 @@
+::-webkit-scrollbar {
+    /* width: 100px; */
+    /* background-color:rgba(0,0,0,0); */
+    -webkit-border-radius: 100px;
+}
+
+::-webkit-scrollbar:hover {
+    background-color: rgba(0,0,0,0.09)
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background: rgb(137 1 55 / 15%);
+    -webkit-border-radius: 100px;
+    background-clip: padding-box;
+    border: 2px solid rgba(0,0,0,0);
+    min-height: 10px
+}
+
+::-webkit-scrollbar-thumb:vertical:active {
+    background: rgba(137, 1, 55, 0.212);
+    -webkit-border-radius: 100px
+}

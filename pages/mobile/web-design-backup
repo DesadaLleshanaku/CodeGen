@@ -1,0 +1,369 @@
+<?php pagetitle("Web Design Brisbane"); ?>
+<style type="text/css">
+    .ui.table tr td { max-width: 250px; font-size: 0.75rem }
+</style>
+
+<div class="innercontainer containerbanner" style="background-image: url('images/uploads/desk_top_view.jpg');">
+    <div class="container">
+        <div class="ui teal button">Web Design Brisbane</div>
+        <div class="ui hidden divider"></div>
+        <p>Malla Technologies is Brisbane’s fast growing Information Technology company offering the most number of services to Australians and Australian companies. Malla Technologies provides services in all kinds of IT Development, Maintenance and Outsourcing.</p>
+    </div>
+</div>
+
+<div class="ui grid">
+
+    <div class="eight wide column right aligned tags">
+
+        <h1 class="ui header">Web Design Brisbane</h1>
+        <a class="ui label" href="#">Web Design</a>
+        <a class="ui label" href="#">Web Development</a><br>
+        <a class="ui label" href="#">Website Maintenance</a>
+        <a class="ui label" href="#">Web Hosting</a><br>
+        <a class="ui label" href="#">WordPress</a>
+        <a class="ui label" href="#">Joomla</a>
+        <a class="ui label" href="#">Drupal</a>
+        <a class="ui label" href="#">Magento</a>
+        <a class="ui label" href="#">Open Cart</a>
+        <a class="ui label" href="#">Prestashop</a>
+        <a class="ui label" href="#">eCommerce</a>
+        <a class="ui label" href="#">CMS</a>
+        <a class="ui label" href="#">PHP</a><br>
+        <a class="ui label" href="#">ASP.NET</a>
+        <a class="ui label" href="#">XML</a>
+        <a class="ui label" href="#">jSON</a><br>
+        <a class="ui label" href="#">HTML</a>
+        <a class="ui label" href="#">CSS</a>
+        <a class="ui label" href="#">JavaScript</a>
+        <a class="ui label" href="#">jQuery</a><br>
+        <a class="ui label" href="#">UI Design</a>
+        <a class="ui label" href="#">Photoshop</a>
+        <a class="ui label" href="#">Wireframes</a>
+        <a class="ui label" href="#">Responsive</a>
+        <a class="ui label" href="#">Social Media Integration</a>
+        <a class="ui label" href="#">SEO</a>
+    </div>
+    <div class="eight wide column">
+        <div class="ui hidden divider"></div>
+        <img src="images/uploads/web-design-brisbane.jpg" class="ui image" />
+    </div>
+</div>
+<div class="ui hidden divider"></div>
+
+<div class="innercontainer containerbanner" style="border-top: 4px solid #8C9AAA; background-image: url('images/uploads/desk_top_view.jpg');">
+    <div class="container">
+        <h1 class="ui header">10 Reasons to Choose Malla Technologies</h1>
+        <div class="ui grid">
+            <div class="eight wide column smalltext">
+                <i class="check icon"></i>Professional Team
+            </div>
+            <div class="eight wide column smalltext">
+                <i class="check icon"></i>Beautiful UI
+            </div>
+            <div class="eight wide column smalltext">
+                <i class="check icon"></i>Fixed Prices
+            </div>
+            <div class="eight wide column smalltext">
+                <i class="check icon"></i>100% Satisfaction Guarantee
+            </div>
+            <div class="eight wide column smalltext">
+                <i class="check icon"></i>Responsive Design
+            </div>
+            <div class="eight wide column smalltext">
+                <i class="check icon"></i>24/7 Support
+            </div>
+            <div class="eight wide column smalltext">
+                <i class="check icon"></i>Fixed Prices
+            </div>
+            <div class="eight wide column smalltext">
+                <i class="check icon"></i>Fixed Prices
+            </div>
+            <div class="eight wide column smalltext">
+                <i class="check icon"></i>Fixed Prices
+            </div>
+            <div class="eight wide column smalltext">
+                <i class="check icon"></i>Fixed Prices
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="innercontainer">
+    <div class="container">
+        <!--
+        <h1 class="ui header center aligned bigtext">Web Design</h1>
+        <div class="ui grid">
+            <div class="eight wide column right aligned middle aligned pagetext">
+                We do all kinds of Web Design, Development, Fixing, Testing works.
+            </div>
+            <div class="eight wide column center aligned">
+                <img src="images/uploads/web-designing-all-kinds.jpg" class="ui image" />
+            </div>
+        </div>
+        <div class="ui divider"></div>
+        <h1 class="ui header center aligned bigtext">Responsive Design</h1>
+        <div class="ui grid">
+            <div class="eight wide column center aligned">
+                <img src="images/uploads/responsive-design.jpg" class="ui image" />
+            </div>
+            <div class="eight wide column left aligned middle aligned pagetext">
+                We do all kinds of Web Design, Development, Fixing, Testing works.
+            </div>
+        </div>
+        <div class="ui divider"></div>
+        <h1 class="ui header center aligned bigtext">Web Design</h1>
+        <div class="ui grid">
+            <div class="eight wide column right aligned middle aligned pagetext">
+                We do all kinds of Web Design, Development, Fixing, Testing works.
+            </div>
+            <div class="eight wide column center aligned">
+                <img src="images/uploads/web-designing-all-kinds.jpg" class="ui image" />
+            </div>
+        </div>
+        <div class="ui divider"></div>
+        <h1 class="ui header center aligned bigtext">Web Design</h1>
+        <div class="ui grid">
+            <div class="eight wide column right aligned middle aligned pagetext">
+                We do all kinds of Web Design, Development, Fixing, Testing works.
+            </div>
+            <div class="eight wide column center aligned">
+                <img src="images/uploads/web-designing-all-kinds.jpg" class="ui image" />
+            </div>
+        </div>
+        <div class="ui divider"></div>
+        -->
+        <table class="ui unstackable celled striped table">
+            <thead>
+                <tr>
+                    <td colspan="3">Our Packages</td>
+                </tr>
+                <tr>
+                    <th class="collapsing" style="max-width: 180px;">Service</th>
+                    <th class="collapsing center aligned">Starter</th>
+                    <th class="collapsing center aligned">Business Ready</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="collapsing"><i class="folder icon"></i> Number of Pages
+                    <p>We will design max up to 40 pages website and if you require any further pages we do it at just $10/page.</p>
+                </td>
+                <td class="collapsing center aligned">Up to 40</td>
+                <td class="collapsing center aligned">Up to 40</td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Responsive Design
+                    <p>Responsive design refers to a design that looks as much accurate as possible in all devices (desktops, laptops, tablets, mobile phones, etc) and all browsers (Google Chrome, Apple Safari, Mozilla Firefox, Microsoft Internet Explorer).</p>
+                </td>
+                <td class="center aligned"><i class="check icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Custom Design
+                    <p>You can request a sample design or you can draw on a paper and send us the design, we will design your website as per your instructions.</p>
+                </td>
+                <td class="center aligned"><i class="check icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Content Management System (CMS)
+                    <p>CMS allows you to make changes to your website yourself without any coding knowledge, you will be provided login details for admin dashboard, and this provides you full access to your website content.</p>
+                </td>
+                <td class="center aligned"><i class="check icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Choice of Platform
+                    <p>We are flexible to develop your website on WordPress/Joomla/Drupal/HTML/Prestashop/OpenCart/Magento.</p>
+                </td>
+                <td class="center aligned">WordPress, HTML</td>
+                <td class="center aligned">Any</td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Quick Support
+                    <p>You can call us at anytime in case if you need assistance with your website.</p>
+                </td>
+                <td class="center aligned"><i class="check icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Social Media Integration
+                    <p>We will integrate your Facebook, Twitter, Pintrest, Linkedin, Instagram, Google Plus pages to your website.</p>
+                </td>
+                <td class="center aligned"><i class="check icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> We Create Social Media Pages For You
+                    <p>We will create Facebook, Twitter, Linkedin and Google Plus Page for your business.</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Google Web Master Tools
+                    <p>We will integrate Google Web Master Tools to your website</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Site SEO
+                    <p>We will do strict site level Search Engine Optimisation to allow your website rank better in Google & other search engines.</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Google Analytic
+                    <p>We will integrate Google Analytics to your website to allow you to track your website traffic analytics.</p>
+                </td>
+                <td class="center aligned"><i class="check icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> 500 Facebook Likes
+                    <p>We will run free Facebook advertising campaigns to boost your Facebook Page with up to 500 Likes.</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> 200 Twitter Followers
+                    <p>We will run free Twitter advertising campaigns to boost your Twitter Page with up to 200 Followers.</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> 200 Google Plus +1's
+                    <p>We will run free Google Plus advertising campaign to boost your Google Plus page with up to 200 +1's</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> 200 Linked-in Followers
+                    <p>We will run free Linked-in advertising campaigns to boost your Linked-in Page with up to 200 Followers.</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Facebook Adverting Coupon
+                    <p>We will provide you $25 free Facebook Advertising Coupon to advertise on Facebook.</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Google Adverting Coupon
+                    <p>We will provide you $100 free Google Advertising Coupon to advertise on Google Adwords.</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Free Traffic Boost
+                    <p>We will drive up to 500 visitors/day for 6 months to your website.</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Domain + Hosting
+                    <p>Hosting ($125) and domain ($25) per year and free hosting is provided for first 1 year.</p>
+                </td>
+                <td class="center aligned">$125</td>
+                <td class="center aligned">Free</td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Google Map/Places Listing
+                    <p>We will list your business in Google Places which will allow people to find your business in Google Maps and Location based searches.</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Submit your Website to Google
+                    <p>We will submit your website to Google Search</p>
+                </td>
+                <td class="center aligned"><i class="check icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Submit your Website to 400 Search Engines
+                    <p>We will submit your website to 400 international search engines to ensure your website is highly visible.</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Free Logo
+                    <p>Complementary Logo design service is allowed for up to 2 hours. For designs that takes more than 2 hours, you will be charged extra.</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> PayPal Gateway Integration
+                    <p>We will integrate PayPal payment gateway to your website which allows you to sell good online.</p>
+                </td>
+                <td class="center aligned"><i class="remove icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Blog Management
+                    <p>You can add or remove blog posts with our CMS.</p>
+                </td>
+                <td class="center aligned"><i class="check icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Full Access Provided
+                    <p>You will be provided full website access upon completion of the website. We don't restrict our clients to relay on us for everything.</p>
+                </td>
+                <td class="center aligned"><i class="check icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> Clean Error Free Code Guaranteed
+                    <p>Our developers are highly professional with Master Degrees in their field of work, we will always deliver high quality bug free output which will never let you down.</p>
+                </td>
+                <td class="center aligned"><i class="check icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            <tr>
+                <td><i class="folder icon"></i> No Lock-in Contracts
+                    <p>There are no lock-in contracts you will be provided full access to your website upon completion, its up to you whether to choose us for further maintenance works or not.</p>
+                </td>
+                <td class="center aligned"><i class="check icon"></i></td>
+                <td class="center aligned"><i class="check icon"></i></td>
+            </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>Cost (one-time cost)</th>
+                    <th class="center aligned">$1000</th>
+                    <th class="center aligned">$1500</th>
+                </tr>
+            </tfoot>
+        </table>
+
+        <div class="ui hidden divider"></div>
+
+        <div class="ui two column middle aligned very relaxed stackable grid">
+            <div class="center aligned column">
+                07 3040 6264<br>
+                info@mallatechnologies.com.au
+            </div>
+            <div class="center aligned column">
+                <div class="ui big green labeled icon button">
+                    <i class="signup icon"></i>
+                    Sign Up
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

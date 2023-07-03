@@ -1,0 +1,224 @@
+div.ui.image.blogimage {
+    height: 200px;
+    background-size: 100% auto;
+    width: 100%;
+}
+.description {
+    margin-top: 15px;
+    text-align: justify;
+}
+/*.innercontainer { margin-left: -15px; margin-right: -15px; margin-top: -15px; min-height: 100px; background-color: #F9F9F9; padding-top:25px; }*/
+.innercontainer { margin-left: -490px; margin-right: -490px; min-height: 100px; background-color: #0d0221; margin-top:-40px; z-index: -1;}
+.innercontainer.containerbanner.top { margin-top:-50px; border-top:none; margin-bottom: 25px; }
+
+.tags a { margin-bottom: 5px !important; background-color: #E4545B !important; color:#FFF !important; border-radius: 0px !important; }
+.pagetext { font-size: 30px; line-height: 2; color: rgb(155, 59, 152); }
+.bigtext {
+    font-size: 30px !important;
+    font-weight: bolder !important;
+}
+.remove.icon {
+    color: #ff4a3d;
+}
+.check.icon {
+    color: #618038;
+}
+td p {
+    font-style: italic;
+    margin-top: 10px;
+    text-align: left;
+    color: rgb(5, 65, 79);
+    font-weight: normal;
+}
+td {
+    font-weight: bold;
+    color: rgb(228, 84, 91);
+}
+.containerbanner {
+    background-size: 100% auto; background-attachment: fixed; margin-bottom: 25px; position: static; backface-visibility: hidden
+}
+.containerbanner2 {
+    background-size: 100% auto; background-attachment: fixed; margin-bottom: 0px; margin-top: 0px;
+}
+.containerbanner .container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-style: italic;
+}
+.smalltext { font-size: 1rem; }
+.smalltext .check.icon { color: #FFFFFF; }
+
+.ui.segment { box-shadow: none; border: none; margin:0px 0px 0px 0px !important; }
+
+.container.homepage p {
+    font-size: 1.23rem;
+}
+.container.homepage {
+    padding: 30px;
+    color: #ffffff;
+}
+
+.container.contactweb p {
+    font-size: 1.5rem;
+    margin-bottom: 0px;
+}
+.container.contactweb p.small {
+    font-size: 1rem;
+}
+.getbox {
+    background-color: #000;
+    color: #FFF;
+    /* display: inline-block; */
+    padding: 5px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.small tr td {
+    font-size: 0.75rem;
+    color: #EEE;
+    font-weight: normal;
+    padding-right: 10px;
+}
+div#web-design-features * {
+    color: #FFFFFF;
+}
+.snippetheader {
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+.snippetcode {
+    padding: 10px;
+    background-color: #B93C3C;
+    border-radius: 7px;
+    color: #FFF;
+    margin-bottom: 10px;
+}
+.snippetresppnse {
+    width: 100%;
+    height: 200px;
+    border: none;
+    margin-bottom:10px;
+    background-color: #2E5A61;
+    padding: 10px;
+    color: #FFF;
+    border-radius: 7px;
+}
+.ui.grid.headercontent a {
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: block;
+    color: #a6cfd5;
+}
+
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 960px;
+  margin: auto;
+  background-color: #0d0221; 
+}
+
+.innercontainer1 {
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+p.text1 {
+  margin-bottom: 20px;
+  color: #a6cfd5;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+/* Rest of your styles */
+.input-container {
+  position: relative;
+  margin: 20px;
+}
+
+.input-field {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-bottom: 2px solid #ccc;
+  outline: none;
+  background-color: transparent;
+}
+
+.input-label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 16px;
+  color: rgba(204, 204, 204, 0);
+  pointer-events: none;
+  transition: all 0.3s ease;
+}
+
+.input-highlight {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  width: 0;
+  background-color: #e8e8e8;
+  transition: all 0.3s ease;
+}
+
+.input-field:focus + .input-label {
+  top: -20px;
+  font-size: 12px;
+  color: #e8e8e8;
+}
+
+.input-field:focus + .input-label + .input-highlight {
+  width: 100%;
+}
+
+
+
+button {
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+}
+
+button:hover {
+  background-color: #a6cfd5;
+  box-shadow: 0px 10px 10px #a6cfd569;
+  color: #fff;
+  transform: translateY(-3px);
+}
+
+button:active {
+  transform: translateY(-1px);
+}
+
+
+
+
+

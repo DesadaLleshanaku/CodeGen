@@ -1,0 +1,9 @@
+div.ui.image.blogimage {
+    height: 200px;
+    background-size: 100% auto;
+    width: 100%;
+}
+
+img.clients {
+    margin: auto;
+}

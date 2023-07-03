@@ -1,0 +1,44 @@
+body{min-width:960px!important;}
+.container{max-width:960px;margin:auto}
+.ui.segment.wrapper{margin:25px 0 20px}
+.header{margin:10px 0 -10px 0px}
+.footer{background-color:#0d0221;border-top:4px solid #FFF;color:#FFF;padding:25px 0}
+.footer .container h4{color:#FFF}
+.footerbottom .ui.grid > .column{font-size:11px}
+.footerbottom{padding:10px;background-color:#E5E5E5;border-radius:3px}
+.mainlogo{width:300px}p{text-align:justify}
+.smallblockquote{margin-left:5px}
+.hunwidth{width:120px;text-align:left}
+.header-main{background-color:#0d0221;padding-bottom:10px;border-bottom:6px solid #a6cfd5}
+.ui.pointing.menu{margin-top:-10px}
+.right.aligned.column.footlinks a{margin-right:3px}
+.right.aligned.column.footlinks a:hover{text-decoration:underline;cursor:pointer}
+.alignjustify.a.label{margin-bottom:5px}
+.alignjustify{text-align:justify}h1.ui.header{font-size:1.5rem;color:#82BBC4;font-weight:400}
+h2.ui.header{font-size:1.3rem;color:#E4545B;font-weight:400}
+h3.ui.header{font-size:1rem;color:#b12988;font-weight:400}
+h4.ui.header{font-size:1rem;color:#a6cfd5;font-weight:400}
+h5.ui.header{font-size:.8rem;color:#E4545B;font-weight:400}
+h6.ui.header{font-size:.8rem;color:#E4545B;font-weight:400}
+.ui.header{font-family:'Century Gothic'}@font-face{font-family:'Century Gothic';src:url(fonts/century-gothic.ttf)}
+.greybutton{background-color:#8C9AAA!important;color:#FFF!important}
+.greybutton:hover{background-color:#E4545B!important;color:#FFF!important}
+.nomargin{margin-bottom:0!important}
+ul.skills{margin-left:0;padding-left:0}
+ul.skills li{list-style:none;background-color:#F0F0F0;margin-bottom:5px}
+ul.skills li div.bar{background-color:#E4545B;padding:1.3px 10px}
+ul.skills li div.bar span{font-family:'Lato','Helvetica Neue',Arial,Helvetica,sans-serif;font-size:.75rem;color:#FFF;font-weight:400}
+.headercontent{color:#FFF}
+.footer.h4.ui.header{color:#FFF;font-weight:700}
+.fbicon{color:#3D5E95}
+.liicon{color:#ed3c80;}
+.twicon{color:#0084B4}
+.gpicon{color:#DC4A38}.clearboth{clear:both}
+i.icon{width:auto}
+.ui.header .icon:only-child{margin-right:.25rem}
+.ui.menu {position: relative;z-index: 1;}
+
+.center-aligned{text-align: center;
+    align-items: center;
+    align-content: center;
+}
